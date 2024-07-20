@@ -1,6 +1,0 @@
-[submodule "avrlib"]
-	path = avrlib
-	url = git://github.com:dialtr/avril.git
-[submodule "tools"]
-	path = tools
-	url = git://github.com:dialtr/avril-firmware_tools.git
